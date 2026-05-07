@@ -15,18 +15,8 @@ Desarrollador Android autodidacta con experiencia práctica creando y publicando
 - Integración IA
 
 ---
-
 ## 📱 Aplicaciones desarrolladas
 
-### AI Audio Summary
-
-Aplicación enfocada en resumir audios utilizando inteligencia artificial.
-
-### Semantic Product Search
-
-Herramienta móvil para organización y búsqueda semántica de información y productos.
-
----
 ### Audio Summary for WhatsApp
 
 Aplicación Android enfocada en resumir mensajes de audio utilizando inteligencia artificial.
@@ -48,7 +38,7 @@ Herramienta de privacidad enfocada en eliminar metadatos EXIF de imágenes antes
 - Kotlin
 - Procesamiento de imágenes
 - Android File System
-- Gestión de permisos
+- Gestión de permisos Android
 
 ---
 
@@ -63,6 +53,17 @@ Aplicación móvil orientada al análisis y control nutricional mediante escaneo
 - Procesamiento de datos
 
 ---
+
+### Anti Theft Phone Security Zap
+
+Aplicación de seguridad móvil enfocada en protección antirrobo y monitoreo del dispositivo.
+
+**Tecnologías utilizadas:**
+- Kotlin
+- Servicios Android
+- Gestión de permisos
+- Seguridad móvil
+- Notificaciones
 
 ## 🛠 Experiencia
 
