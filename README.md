@@ -27,6 +27,15 @@ Aplicación Android enfocada en resumir mensajes de audio utilizando inteligenci
 - Procesamiento de texto
 - Android Storage
 - Material Design
+  #### Screenshots
+
+![Home](audio-summary-home.png)
+
+![Summary](audio-summary-result.png)
+
+![History](audio-summary-history.png)
+
+![Settings](audio-summary-settings.png)
 
 ---
 
