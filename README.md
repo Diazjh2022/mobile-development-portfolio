@@ -19,9 +19,11 @@ Desarrollador Android autodidacta con experiencia práctica creando y publicando
 ## 📱 Aplicaciones desarrolladas
 
 ### AI Audio Summary
+
 Aplicación enfocada en resumir audios utilizando inteligencia artificial.
 
 ### Semantic Product Search
+
 Herramienta móvil para organización y búsqueda semántica de información y productos.
 
 ---
