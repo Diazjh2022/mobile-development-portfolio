@@ -2,7 +2,10 @@
 
 Desarrollador Android autodidacta con experiencia práctica creando y publicando aplicaciones móviles en Google Play.
 
-## Tecnologías
+---
+
+## 🚀 Tecnologías
+
 - Kotlin
 - Android Studio
 - Firebase
@@ -11,39 +14,28 @@ Desarrollador Android autodidacta con experiencia práctica creando y publicando
 - Material Design
 - Integración IA
 
-## Aplicaciones desarrolladas
+---
+
+## 📱 Aplicaciones desarrolladas
 
 ### AI Audio Summary
 Aplicación enfocada en resumir audios utilizando inteligencia artificial.
 
 ### Semantic Product Search
-Herramienta móvil para organización y búsqueda semántica.
+Herramienta móvil para organización y búsqueda semántica de información y productos.
 
-## Experiencia
-- Publicación de apps en Google Play
-- Manejo de ciclo completo de desarrollo móvil
-- Testing y mantenimiento de aplicaciones# Android App Portfolio
+---
 
-Desarrollador Android autodidacta con experiencia práctica creando y publicando aplicaciones móviles en Google Play.
+## 🛠 Experiencia
 
-## Tecnologías
-- Kotlin
-- Android Studio
-- Firebase
-- SQLite
-- APIs REST
-- Material Design
-- Integración IA
+- Publicación de aplicaciones en Google Play
+- Desarrollo completo de apps Android
+- Testing y mantenimiento de aplicaciones móviles
+- Integración de APIs y funcionalidades IA
+- Optimización y resolución de errores en producción
 
-## Aplicaciones desarrolladas
+---
 
-### AI Audio Summary
-Aplicación enfocada en resumir audios utilizando inteligencia artificial.
+## 📌 Objetivo
 
-### Semantic Product Search
-Herramienta móvil para organización y búsqueda semántica.
-
-## Experiencia
-- Publicación de apps en Google Play
-- Manejo de ciclo completo de desarrollo móvil
-- Testing y mantenimiento de aplicaciones
+Continuar desarrollando soluciones móviles modernas enfocadas en productividad, automatización e inteligencia artificial.
