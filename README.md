@@ -87,3 +87,9 @@ Aplicación de seguridad móvil enfocada en protección antirrobo y monitoreo de
 ## 📌 Objetivo
 
 Continuar desarrollando soluciones móviles modernas enfocadas en productividad, automatización e inteligencia artificial.
+
+
+## 🌐 Contact
+
+- LinkedIn: https://www.linkedin.com/in/jose-diaz-montenegro-870a871b5
+- GitHub: https://github.com/Diazjh2022
